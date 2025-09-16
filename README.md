@@ -2,7 +2,7 @@
 
 ###
 
-<img align="right" height="150" src=""  />
+<img align="right" height="150" src="https://i.redd.it/what-exactly-is-duke-the-java-mascot-supposed-to-be-at-a-v0-n8g6539fmroc1.jpg?width=770&format=pjpg&auto=webp&s=50597ab5e31b01f491e3af21913df63177cd85d9"  />
 
 ###
 
