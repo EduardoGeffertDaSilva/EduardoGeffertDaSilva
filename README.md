@@ -8,11 +8,14 @@ Estudante de programação no **Centro Weg (MI-80)**, focado em aprender tecnolo
 
 ---
 
-### 🚀 Sobre Mim
+### Sobre Mim
 - 📚 Atualmente focado em **Java**, e **Banco de Dados**.
 - 🛠️ Desenvolvendo projetos práticos no Centro Weg.
 
-  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](gefferteduardo@gmail.com)
+### Meus contatos
+- Gmail: gefferteduardo@gmail.com
+- Whatssapp: 47 98805-8847
+
   
 ---
 
@@ -25,7 +28,7 @@ Estudante de programação no **Centro Weg (MI-80)**, focado em aprender tecnolo
 
 ---
 
-### 📊 Estatísticas
+### Estatísticas
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=EduardoGeffertDaSilva&theme=vision-glow" alt="Eduardo's Streak" height="150">
@@ -34,7 +37,7 @@ Estudante de programação no **Centro Weg (MI-80)**, focado em aprender tecnolo
 
 ---
 
-### 🐍 Commits
+### Commits
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/EduardoGeffertDaSilva/EduardoGeffertDaSilva/output/github-contribution-grid-snake.svg)
 
