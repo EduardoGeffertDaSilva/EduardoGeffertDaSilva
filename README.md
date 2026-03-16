@@ -8,9 +8,8 @@ Estudante de programação no **Centro Weg (MI-80)**, focado em aprender tecnolo
 - 📚 Atualmente focado em **Java**, e **Banco de Dados**.
 - 🛠️ Desenvolvendo projetos práticos no Centro Weg.
 - 📫 Como me encontrar: 
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEU_LINK_AQUI)
-  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@gmail.com)
-
+  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](gefferteduardo@gmail.com)
+  
 ---
 
 ### 🛠️ Tecnologias e Ferramentas
