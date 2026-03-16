@@ -1,32 +1,42 @@
-<h2 align="left">Hi 👋! My name is Eduardo Geffert Da Silva and I'm a programming student from centro Weg</h2>
+# Olá! Eu sou o Eduardo Geffert Da Silva 👋
 
-###
+Estudante de programação no **Centro Weg (MI-80)**, focado em aprender tecnologias modernas e construir soluções eficientes.
 
-<img align="right" height="150" src="https://i.redd.it/what-exactly-is-duke-the-java-mascot-supposed-to-be-at-a-v0-n8g6539fmroc1.jpg?width=770&format=pjpg&auto=webp&s=50597ab5e31b01f491e3af21913df63177cd85d9"  />
+---
 
-###
+### 🚀 Sobre Mim
+- 📚 Atualmente focado em **Java**, **Python** e **Banco de Dados**.
+- 🛠️ Desenvolvendo projetos práticos no Centro Weg.
+- 📫 Como me encontrar: 
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEU_LINK_AQUI)
+  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@gmail.com)
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="30" alt="intellij logo"  />
-</div>
+---
 
-###
+### 🛠️ Tecnologias e Ferramentas
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-</div>
+---
 
-###
+### 📊 Minhas Estatísticas
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EduardoGeffertDaSilva&show_icons=true&theme=vision-glow&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoGeffertDaSilva&layout=compact&langs_count=7&theme=vision-glow"/>
+</p>
+
+---
+
+### 🐍 Snake Game (Minhas Contribuições)
+
+![github contribution grid snake animation](https://raw.githubusercontent.com/EduardoGeffertDaSilva/EduardoGeffertDaSilva/output/github-contribution-grid-snake.svg)
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=120&section=footer" />
+</p>
