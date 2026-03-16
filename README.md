@@ -5,7 +5,7 @@ Estudante de programação no **Centro Weg (MI-80)**, focado em aprender tecnolo
 ---
 
 ### 🚀 Sobre Mim
-- 📚 Atualmente focado em **Java**, **Python** e **Banco de Dados**.
+- 📚 Atualmente focado em **Java**, e **Banco de Dados**.
 - 🛠️ Desenvolvendo projetos práticos no Centro Weg.
 - 📫 Como me encontrar: 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEU_LINK_AQUI)
@@ -22,7 +22,7 @@ Estudante de programação no **Centro Weg (MI-80)**, focado em aprender tecnolo
 
 ---
 
-### 📊 Minhas Estatísticas
+### 📊 Estatísticas
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EduardoGeffertDaSilva&show_icons=true&theme=vision-glow&include_all_commits=true&count_private=true"/>
@@ -31,7 +31,7 @@ Estudante de programação no **Centro Weg (MI-80)**, focado em aprender tecnolo
 
 ---
 
-### 🐍 Snake Game (Minhas Contribuições)
+### 🐍 Commits
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/EduardoGeffertDaSilva/EduardoGeffertDaSilva/output/github-contribution-grid-snake.svg)
 
