@@ -11,7 +11,7 @@ Estudante de programação no **Centro Weg (MI-80)**, focado em aprender tecnolo
 ### 🚀 Sobre Mim
 - 📚 Atualmente focado em **Java**, e **Banco de Dados**.
 - 🛠️ Desenvolvendo projetos práticos no Centro Weg.
-- 📫 Como me encontrar: 
+
   [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](gefferteduardo@gmail.com)
   
 ---
