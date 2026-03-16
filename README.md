@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=007ACC&height=200&section=header&text=Eduardo%20Geffert&fontSize=70&animation=fadeIn" />
+</p>
+
 # Olá! Eu sou o Eduardo Geffert Da Silva 👋
 
 Estudante de programação no **Centro Weg (MI-80)**, focado em aprender tecnologias modernas e construir soluções eficientes.
@@ -24,8 +28,8 @@ Estudante de programação no **Centro Weg (MI-80)**, focado em aprender tecnolo
 ### 📊 Estatísticas
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterhstic.vercel.app/api?username=EduardoGeffertDaSilva&show_icons=true&theme=vision-glow&include_all_commits=true" alt="Status do GitHub" height="150">
-  <img src="https://github-readme-stats-git-masterhstic.vercel.app/api/top-langs/?username=EduardoGeffertDaSilva&layout=compact&theme=vision-glow" alt="Linguagens" height="150">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EduardoGeffertDaSilva&theme=vision-glow" alt="Eduardo's Streak" height="150">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=EduardoGeffertDaSilva&theme=github_dark" alt="Linguagens" height="150">
 </p>
 
 ---
