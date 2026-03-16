@@ -24,8 +24,8 @@ Estudante de programação no **Centro Weg (MI-80)**, focado em aprender tecnolo
 ### 📊 Estatísticas
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EduardoGeffertDaSilva&show_icons=true&theme=vision-glow&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoGeffertDaSilva&layout=compact&langs_count=7&theme=vision-glow"/>
+  <img src="https://github-readme-stats-git-masterhstic.vercel.app/api?username=EduardoGeffertDaSilva&show_icons=true&theme=vision-glow&include_all_commits=true" alt="Status do GitHub" height="150">
+  <img src="https://github-readme-stats-git-masterhstic.vercel.app/api/top-langs/?username=EduardoGeffertDaSilva&layout=compact&theme=vision-glow" alt="Linguagens" height="150">
 </p>
 
 ---
