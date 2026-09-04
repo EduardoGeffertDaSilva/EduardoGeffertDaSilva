@@ -10,8 +10,7 @@ Estudante de programação no **Centro Weg (MI-80)**, focado em aprender tecnolo
 
 ### Meus contatos
 - Gmail: gefferteduardo@gmail.com
-- Whatssapp: 47 98805-8847
-
+- Whatsapp: 47 98805-8847
   
 ---
 
