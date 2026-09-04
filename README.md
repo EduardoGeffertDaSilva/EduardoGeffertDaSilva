@@ -39,5 +39,5 @@ Estudante de programação no **Centro Weg (MI-80)**, focado em aprender tecnolo
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=120&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00529B,100:00A8FF&height=120&section=footer" />
 </p>
