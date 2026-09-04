@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00529B,100:00A8FF&height=200&section=header&text=Eduardo%20Geffert&fontSize=70&animation=fadeIn&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00529B,100:00A8FF&height=200&section=header&text=Eduardo%20Geffert%20da%20Silva&fontSize=50&animation=fadeIn&fontColor=ffffff" />
 </p>
 
 # Olá! Eu sou o Eduardo Geffert Da Silva 👋
@@ -79,5 +79,5 @@ Estudante de programação no **Centro Weg (MI-80)**, focado em aprender tecnolo
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00529B,100:00A8FF&height=120&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=ocean&height=120&section=footer" />
 </p>
